@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Main Notes/STUDYS/HCI/Central Message for Design in HCI and AI.md",
+                "file": "2019-08-08-text-and-typography.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Main Notes/STUDYS/HCI/Central Message for Design in HCI and AI.md",
+                "file": "2019-08-08-text-and-typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Main Notes/STUDYS/HCI/Central Message for Design in HCI and AI.md",
+                "file": "2019-08-08-text-and-typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Main Notes/STUDYS/HCI/Central Message for Design in HCI and AI.md"
+                "file": "2019-08-08-text-and-typography.md"
               }
             }
           }
@@ -173,8 +173,9 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "27edf452de843e7a",
+  "active": "9fac0ea4493d7b4e",
   "lastOpenFiles": [
+    "1. Rough Notes/rough-1.md",
     "6. Main Notes/STUDYS/DLC/Asynchronous Counters (Ripple Counters).md",
     "6. Main Notes/STUDYS/DLC/Counters.md",
     "6. Main Notes/STUDYS/HCI/Define problem solving and the theories used for problem solving.md",
@@ -207,7 +208,6 @@
     "1. Rough Notes/Image.md",
     "1. Rough Notes/Note 1.md",
     "5. Templates/Full Note.md",
-    "Welcome.md",
     "6. Main Notes",
     "5. Templates",
     "4. Indexes"
