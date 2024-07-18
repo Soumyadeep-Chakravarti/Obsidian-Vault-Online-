@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "ed68aaaa010eb188",
+    "type": "split",
+    "children": [
+      {
+        "id": "cecb0c156c73b5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b2699386b6e12e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/STUDYS/DLC/Asynchronous Counters (Ripple Counters).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e1f5895480c069d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/STUDYS/DLC/Counters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fac0ea4493d7b4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/STUDYS/HCI/Central Message for Design in HCI and AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd9d90559663c0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "62773789e368577c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27edf452de843e7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64d1b171968c85e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c326f31988335a1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba17855df6f303ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e997bb99da536f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6fc84af68a8b209",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. Main Notes/STUDYS/HCI/Central Message for Design in HCI and AI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f6044830fb5cda6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6. Main Notes/STUDYS/HCI/Central Message for Design in HCI and AI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13b2f06c79c306ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6328f3eb31d50173",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Main Notes/STUDYS/HCI/Central Message for Design in HCI and AI.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "27edf452de843e7a",
+  "lastOpenFiles": [
+    "6. Main Notes/STUDYS/DLC/Asynchronous Counters (Ripple Counters).md",
+    "6. Main Notes/STUDYS/DLC/Counters.md",
+    "6. Main Notes/STUDYS/HCI/Define problem solving and the theories used for problem solving.md",
+    "6. Main Notes/STUDYS/HCI/Central Message for Design in HCI and AI.md",
+    "6. Main Notes/STUDYS/DLC/Truth Table for a 16-to-1 Multiplexer (MUX).md",
+    "6. Main Notes/STUDYS/DLC/Truth Table for a 1-to-16 Demultiplexer (DEMUX).md",
+    "6. Main Notes/STUDYS/HCI/what are the receptors in the human body.md",
+    "6. Main Notes/STUDYS/HCI/What are the models for long term memory.md",
+    "6. Main Notes/STUDYS/HCI/what are the concerns that relate system interactivity and usability.md",
+    "6. Main Notes/STUDYS/HCI/Define thinking along with its components.md",
+    "1. Rough Notes/what are the concerns that relate system interactivity and usability.md",
+    "1. Rough Notes/Untitled 1.md",
+    "1. Rough Notes/Define problem solving and the theories used for problem solving.md",
+    "1. Rough Notes/Define thinking along with its components.md",
+    "1. Rough Notes/what are the receptors in the human body.md",
+    "1. Rough Notes/What are the models for long term memory.md",
+    "6. Main Notes/STUDYS/MATH",
+    "6. Main Notes/STUDYS/PYTHON",
+    "6. Main Notes/STUDYS/DLC",
+    "6. Main Notes/STUDYS/HCI",
+    "6. Main Notes/STUDYS/Untitled.md",
+    "6. Main Notes/STUDYS",
+    "6. Main Notes/PROJECTS/COMPUTER_TOOLS/Supported_file_types.md",
+    "6. Main Notes/PROJECTS/COMPUTER_TOOLS/Image_Formats.md",
+    "6. Main Notes/PROJECTS/COMPUTER_TOOLS/PDF_Conversions.md",
+    "6. Main Notes/PROJECTS/COMPUTER_TOOLS/PDF_Tools.md",
+    "6. Main Notes/PROJECTS/COMPUTER_TOOLS/Computer Tools.md",
+    "6. Main Notes/PROJECTS/COMPUTER_TOOLS",
+    "6. Main Notes/PROJECTS",
+    "1. Rough Notes/Image.md",
+    "1. Rough Notes/Note 1.md",
+    "5. Templates/Full Note.md",
+    "Welcome.md",
+    "6. Main Notes",
+    "5. Templates",
+    "4. Indexes"
+  ]
+}
